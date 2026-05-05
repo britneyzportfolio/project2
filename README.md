@@ -1,5 +1,5 @@
 # project2
-# Coffee Sales Tracker
+# Coffee Sales Dashboard
 
 ## 🎯 Objective
 A comprehensive data analysis project aimed at understanding coffee shop performance. By analyzing sales data, this project helps optimize staff scheduling and inventory management based on peak business hours and customer preferences.
