@@ -10,8 +10,8 @@ A comprehensive data analysis project aimed at understanding coffee shop perform
 * **Version Control:** GitHub
 
 ## 📊 Visuals
-*(Insert screenshot of your Coffee Dashboard here)*
-![Coffee Sales Dashboard](link-to-your-image.png)
+
+[Coffee Sales Dashboard]https://github.com/britneyzportfolio/project2/blob/main/pro2.png
 
 ## 🔑 Key Features
 * **Sales Overview:** Real-time visibility into total revenue, volume sold, and average order value.
@@ -36,4 +36,4 @@ A comprehensive data analysis project aimed at understanding coffee shop perform
 ## 📫 Let's Connect!
 * **LinkedIn:** https://www.linkedin.com/in/britney-senaratne-5069a3249?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * **Portfolio:** https://github.com/britneyzportfolio/britneyzportfolio
-* **Email:** britneysnr28@gmai.com
+* **Email:** britneysnr28@gmail.com
