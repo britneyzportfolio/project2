@@ -1,39 +1,23 @@
-# project2
-# Coffee Sales Dashboard
 
-## 🎯 Objective
-A comprehensive data analysis project aimed at understanding coffee shop performance. By analyzing sales data, this project helps optimize staff scheduling and inventory management based on peak business hours and customer preferences.
+# Coffee Sales & Inventory Optimization Tracker
 
-## 🛠 Tech Stack
-* **Analysis:** Microsoft Excel (Data Transformation)
-* **Visualization:** Power BI
-* **Version Control:** GitHub
-
-## 📊 Visuals
-
-[Coffee Sales Dashboard]https://github.com/britneyzportfolio/project2/blob/main/pro2.png
-
-## 🔑 Key Features
-* **Sales Overview:** Real-time visibility into total revenue, volume sold, and average order value.
-* **Peak Hour Analysis:** Identification of high traffic hours to optimize employee scheduling.
-* **Product Popularity:** Insights into top selling coffee variants and their contribution to daily revenue.
-
-## 📈 Business Impact
-* Provided evidence-based scheduling, optimizing labor costs during off-peak hours.
-* Highlighted high-demand products, ensuring better stock availability for popular items.
-* Enhanced operational efficiency through data-backed decisions.
-
-## 💡 Key Learnings
-* Learned to analyze temporal data (time based) to find hidden business trends.
-* Developed expertise in creating interactive dashboards for business stakeholders.
-* Enhanced problem-solving skills by linking data findings to real-world operations.
-
-## 🚀 Future Enhancements
-* Integrating a weather based sales forecasting model.
-* Adding an automated daily summary report for management.
+## 📊 Dashboard Preview
+[Dashboard Screenshot](pro.png)
 
 
-## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/britney-senaratne-5069a3249?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* **Portfolio:** https://github.com/britneyzportfolio/britneyzportfolio
-* **Email:** britneysnr28@gmail.com
+## 📌 Business Overview
+Overstocking leads to wastage, while understocking leads to lost sales. This project focuses on finding the "Sweet Spot" for a coffee retail business by analyzing historical sales data to predict future demand.
+
+## 🚀 Business Value
+* **Wastage Reduction:** Minimizes losses by aligning stock levels with seasonal demand spikes.
+* **Product Availability:** Ensures that high demand items are always in stock during peak hours.
+* **Customer Preference Mapping:** Analyzes buying patterns to suggest targeted promotions and loyalty offers.
+
+## 🛠️ Tools Used
+* **Power BI** for Interactive Dashboards.
+
+
+## 📊 Key Insights Captured
+* Peak Sales periods (Daily/Hourly).
+* Customer Loyalty & Subscription trends.
+* Inventory Turnover Ratios.
