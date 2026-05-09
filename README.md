@@ -2,7 +2,7 @@
 # Coffee Sales & Inventory Optimization Tracker
 
 ## 📊 Dashboard Preview
-[Dashboard Screenshot](pro.png)
+[Dashboard Preview](pro.png)
 
 
 ## 📌 Business Overview
